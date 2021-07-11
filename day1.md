@@ -1,1 +1,0 @@
-Lets start building our own languah=ge i name it as powerfulscript .
